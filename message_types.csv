@@ -1,0 +1,12 @@
+msgtypename,events
+modify_bearer_request,329
+delete_session_request,148
+delete_bearer_request,147
+delete_bearer_response,143
+delete_pdp_context_request,122
+delete_pdp_context_response,62
+delete_session_response,22
+update_pdp_context_request,15
+echo_response,7
+modify_bearer_response,3
+update_pdp_context_response,1
